@@ -48,7 +48,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Reserve_Keys.PNG?raw=true)
 
-## Candidate Results
+## Deliverable 1a: Candidate Results
 ### Deliverable Requirements:
 Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
@@ -99,7 +99,7 @@ Using repetition statements, conditional statements with logical operators, and 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-percentage-of-votes-are-printed-to-the-terminal.PNG?raw=true)
 
 
-### County Results
+### Deliverable 1b: County Results
 ### Deliverable Requirements:
 Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
@@ -139,7 +139,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-printed-to-the-terminal.PNG?raw=true)
 
-## Election Candidate Results Saved to a Text File
+## Deliverable 2: Election Candidate Results Saved to a Text File
 ### Candidate Results Deliverable Requirements:
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
@@ -247,19 +247,9 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-saved-in-the-election_results.txt- file.PNG?raw=true)
 
 
-HERE!
-
-## Analysis of the Election Audit
+## Deliverable 3: Analysis of the Election Audit
 ### 1) Overview of Election Audit:
 > Explain the purpose of this election audit analysis:
-
-1. Each county and its total vote count are saved in the `election_results.txt` file.
-2. Each county and its percentage of the total votes are saved in the `election_results.txt` file.  
-3. The county with the largest number of voters is saved in the `election_results.tx`t` file. 
- 
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-saved-in-the-election_results-txt-file.PNG?raw=true)
 
 
 ### 2) Election-Audit Results:
@@ -270,8 +260,3 @@ HERE!
 * Which county had the largest number of votes?
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-saved-in-the-election_results-txt-file.PNG?raw=true)
