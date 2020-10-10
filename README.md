@@ -64,9 +64,9 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-printed-to-the-terminal.PNG?raw=true)
 
 
 **2. Each candidate’s total votes and percentage of votes are printed to the terminal.**
@@ -74,9 +74,9 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-candidates-total-votes-and-percentage-of-votes-are-printed-to-the-terminal.PNG?raw=true)
 
 
 **3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.**
@@ -84,9 +84,20 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image - The winner of the election**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winner-of-the-election.PNG?raw=true)
+
+
+**Code and Image - The winning vote count**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-vote-count.PNG?raw=true)
+
+
+**Code and Image - The winning percentage of votes**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-percentage-of-votes-are-printed-to-the-terminal.PNG?raw=true)
+
 
 ### County Results
 ### Deliverable Requirements:
@@ -104,9 +115,9 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-county-and-its-total-vote-count-are-printed-to-the-terminal.PNG?raw=true)
 
 
 **2. Each county and its percentage of the total votes are printed to the terminal.**
@@ -114,9 +125,9 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-county-and-its-percentage-of-the-total-votes-are-printed-to-the-terminal.PNG?raw=true)
 
 
 **3. The county with the largest number of voters is printed to the terminal.**
@@ -124,10 +135,9 @@ Using repetition statements, conditional statements with logical operators, and 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
-
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-printed-to-the-terminal.PNG?raw=true)
 
 ## Election Candidate Results Saved to a Text File
 ### Candidate Results Deliverable Requirements:
