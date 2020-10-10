@@ -155,9 +155,9 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-saved-in-the-election_results-txt-file.PNG?raw=true)
 
 
 **2. Each candidate’s total votes and percentage of votes are saved in the `election_results.txt` file.**
@@ -168,9 +168,9 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 > - Z
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-candidates-total-votes-and-percentage-of-votes-are-saved-in-the-election_results.txt-file.PNG?raw=true)
 
 
 **3. The winner of the election, winning vote count, and winning percentage of votes are saved in the `election_results.txt` file.**
@@ -184,9 +184,17 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 > - Z
 
 
-**Python Arithmetic Operators**
+**Code and Image - The winner of the election on txt file**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winner-of-the-election-saved-in-the-election_results.txt-file.PNG?raw=true)
+
+**Code and Image - The winning vote count on txt file**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winner-vote-count-saved-in-the-election_results.txt-file.PNG?raw=true)
+
+**Code and Image - The winning percentage of votes on txt file**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-percentage-of-votes-saved-in-the-election_results.txt-file.PNG?raw=true)
 
 
 ## Election County Results Saved to a Text File
@@ -200,14 +208,14 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 ### Results with detail analysis:
 > Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the `election_results.txt` file.
 
-**Each county and its total vote count are saved in the `election_results.txt` file.**
+**1. Each county and its total vote count are saved in the `election_results.txt` file.**
 
 > Analysis Here:
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-county-and-its-total-vote-count-are-saved-in-the-election_results.txt-file.PNG?raw=true)
 
 
 **2. Each county and its percentage of the total votes are saved in the `election_results.txt` file.**
@@ -218,12 +226,12 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 > - Z
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-county-and-its-percentage-of-the-total-votes-are-saved-in-the-election_results.txt-file.PNG?raw=true)
 
 
-**3. The county with the largest number of voters is saved in the `election_results.tx`t` file.**
+**3. The county with the largest number of voters is saved in the `election_results.tx` file.**
 - Charles Casper Stockham
 - Diana DeGette
 - Raymon Anthony Doane
@@ -234,12 +242,12 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 > - Z
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-saved-in-the-election_results.txt- file.PNG?raw=true)
 
 
-
+HERE!
 
 ## Analysis of the Election Audit
 ### 1) Overview of Election Audit:
@@ -249,9 +257,9 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 2. Each county and its percentage of the total votes are saved in the `election_results.txt` file.  
 3. The county with the largest number of voters is saved in the `election_results.tx`t` file. 
  
- **Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-saved-in-the-election_results-txt-file.PNG?raw=true)
 
 
 ### 2) Election-Audit Results:
@@ -264,15 +272,6 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
-**Python Arithmetic Operators**
+**Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
-
-### 2) Election-Audit Results:
-> In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-* How many votes were cast in this congressional election?
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-* Which county had the largest number of votes?
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-saved-in-the-election_results-txt-file.PNG?raw=true)
