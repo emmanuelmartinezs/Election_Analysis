@@ -1,21 +1,29 @@
 # ELECTION ANALYSIS
 Create an Election Analysis "PyPoll" with Python
 ## Overview of Project
+A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
 
-### Purpose
-A deep dive into Excel, as we know, Excel is a tool that can be used across all Organizations areas, including from household budgeting to complex financial analysis. 
-Learning from the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning. 
+1. Calculate the total number of votes cast.
+2. Get a complete list of candidates who received votes.
+3. Calculatae the total number of votes each candidate received.
+4. Calculate the percentage of votes each candidate won.
+5. Determine the winner of the election based on popular vote.
+
+## Resources
+
+* Data Source: election_results.csv
+* Software: Python 3.9, Visual Studio Code 1.50.0
 
 For more information, read the [`Documentation on Python data typess`](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex). 
 
 ## Analysis and Challenges
 In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
-- Total number of votes cast
-- A complete list of candidates who received votes
-- Total number of votes each candidate received
-- Percentage of votes each candidate won
-- The winner of the election based on popular vote
+1. Total number of votes cast
+2. A complete list of candidates who received votes
+3. Total number of votes each candidate received
+4. Percentage of votes each candidate won
+5. The winner of the election based on popular vote
 
 #### Our Challenge Data Background
 > After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called `pseudocode`. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
@@ -29,7 +37,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ### Analysis of Outcomes Based on Launch Date
  
 #### Deliverable Requirements with detail analysis:
-**1. A Years column is created based on the Date Created Conversion column in the Kickstarter spreadsheet.**
+**1. Total number of votes cast**
 
 > In the "Years" column, use the `YEAR()` function to extract the year from the “Date Created Conversion” column.
 
@@ -37,7 +45,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
 
 
-**2. A pivot table is created in a new worksheet labeled "Outcomes Based on Launch Date".**
+**2. A complete list of candidates who received votes.**
 
 > Created a pivot table from the KickStarter worksheet, and placed the pivot table in a new sheet.
 
@@ -45,7 +53,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20Table%20for%20Outcomes%20Based%20on%20Launch%20Date.PNG?raw=true)
 
 
-**3. The pivot table filters on "Parent Category" and "Years".**
+**3. Total number of votes each candidate received.**
 
 > Placed the appropriate pivot table pivot table based on Parent Category and the Years data filtered.
 
@@ -53,7 +61,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20table%20filters%20on%20Parent%20Category%20and%20Years.PNG?raw=true)
 
 
-**4. The columns, rows, and values in the pivot table fields are correctly populated.**
+**4. Percentage of votes each candidate won.**
 
 > Placed the appropriate pivot table fields.
 
@@ -61,7 +69,7 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
 
 
-**5. The "Parent Category" is filtered on "theater".**
+**5. The winner of the election based on popular vote.**
 
 > Placed the appropriate filter on pivot table.
 
@@ -69,26 +77,10 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Filtered%20on%20Theater.PNG?raw=true)
 
 
-**6. The row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order.**
 
-> Grouping data in a PivotTable can help you show a subset of data to analyze. For example, you may want to group an unwieldy list of dates or times (date and time fields in the PivotTable) into quarters and months, etc.
+## Summary
 
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Month%20on%20Row%20and%20Outcomes%20in%20descending.PNG?raw=true)
-
-
-**7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as** **[Theater_Outcomes_vs_Launch.png]**
-
-> Created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
-
-
-
-### Analysis of Outcomes Based on Goals
-
-#### Deliverable Requirements with detail analysis:
+#### The analysis of the election show that:
 **1. A new sheet is created with eight columns and twelve rows, according to the instructions.**
 
 > In the new sheet, create the following columns to hold the data:
