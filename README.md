@@ -244,7 +244,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-saved-in-the-election_results.txt- file.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-county-with-the-largest-number-of-voters-is-saved-in-the-election_results.txt-file.PNG?raw=true)
 
 
 ## Deliverable 3: Analysis of the Election Audit
