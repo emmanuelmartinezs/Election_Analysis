@@ -33,48 +33,72 @@ Pseudocode is like a roadmap of what you think your code will look like or the s
 
 Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is an informal language that has no syntax rules and is not meant to be executed. The point of using pseudocode is to focus on the overall design of the program.
 
+> Here some Python Arithmetic Operators, Data Types and Reserve Keys to remember;
+
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
+
+**Python Data Types**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Data_Types.PNG?raw=true)
+
+
+**Python Reserve Keys**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Reserve_Keys.PNG?raw=true)
 
 ### Analysis of Outcomes Based on Launch Date
  
 #### Deliverable Requirements with detail analysis:
 **1. Total number of votes cast**
 
-> In the "Years" column, use the `YEAR()` function to extract the year from the “Date Created Conversion” column.
+> Analysis Here:
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **2. A complete list of candidates who received votes.**
 
-> Created a pivot table from the KickStarter worksheet, and placed the pivot table in a new sheet.
+> Analysis Here:
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20Table%20for%20Outcomes%20Based%20on%20Launch%20Date.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **3. Total number of votes each candidate received.**
 
-> Placed the appropriate pivot table pivot table based on Parent Category and the Years data filtered.
+> Analysis Here:
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Pivot%20table%20filters%20on%20Parent%20Category%20and%20Years.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **4. Percentage of votes each candidate won.**
 
-> Placed the appropriate pivot table fields.
+> Analysis Here:
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **5. The winner of the election based on popular vote.**
 
-> Placed the appropriate filter on pivot table.
+> Analysis Here:
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Filtered%20on%20Theater.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 
@@ -89,7 +113,9 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 > - Z
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/eight%20columns%20and%20twelve%20rows.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **2. The candidates were:**
@@ -103,7 +129,9 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 > - Z
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20COUNTIFS()%20function.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **3. The candidate results were.**
@@ -118,7 +146,9 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 > - Z
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20SUM()%20function.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 **4. The Winner of the election was:**
@@ -132,7 +162,9 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 > - Y
 > - Z
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20percentages.PNG?raw=true)
+**Python Arithmetic Operators**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Python_Arithmetic_Operators.PNG?raw=true)
 
 
 ### Challenges Overview and Difficulties Encountered
