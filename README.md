@@ -9,18 +9,22 @@ Learning from the intricacies of Excel will draw on (and enhance) skills we may 
 For more information, read the [`Documentation on Python data typess`](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex). 
 
 ## Analysis and Challenges
-Here's a quick look at the Kickstarting Analysis and Challenges of this Project, including the following tasks:
+In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
-- Import data into a table for analysis.
-- Apply filters, conditional formatting, and formulas.
-- Generate and interpret pivot tables.
-- Calculate summary statistics such as measures of central tendency, standard deviation, and variance.
-- Characterize data to identify outliers in datasets.
-- Perform an Excel analysis with visualizations.
-- Interpret common Excel visualizations
+- Total number of votes cast
+- A complete list of candidates who received votes
+- Total number of votes each candidate received
+- Percentage of votes each candidate won
+- The winner of the election based on popular vote
 
 #### Our Challenge Data Background
-> Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
+> After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called `pseudocode`. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
+
+To facilitate the design process, programmers use `pseudocode` to create models or flowcharts for their programs. 
+Pseudocode is like a roadmap of what you think your code will look like or the steps you'll take to complete the task at hand.
+
+Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is an informal language that has no syntax rules and is not meant to be executed. The point of using pseudocode is to focus on the overall design of the program.
+
 
 ### Analysis of Outcomes Based on Launch Date
  
