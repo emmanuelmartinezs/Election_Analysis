@@ -81,98 +81,62 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 ## Summary
 
 #### The analysis of the election show that:
-**1. A new sheet is created with eight columns and twelve rows, according to the instructions.**
+**1. There are "369,711" votes cast in the election.**
 
-> In the new sheet, create the following columns to hold the data:
-> - Goal
-> - Number Successful
-> - Number Failed
-> - Number Canceled
-> - Total Projects
-> - Percentage Successful
-> - Percentage Failed
-> - Percentage Canceled.
-
-> In the “Goal” column, create the following dollar-amount ranges so projects can be grouped based on their goal amount.
+> Analysis Here:
+> - X
+> - Y
+> - Z
 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/eight%20columns%20and%20twelve%20rows.PNG?raw=true)
 
 
-**2. The `COUNTIFS()` function is used to populate the "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges in Step 3, and the Subcategory "plays".**
+**2. The candidates were:**
+- Charles Casper Stockham
+- Diana DeGette
+- Raymon Anthony Doane
 
-> Used `COUNTIFS()` functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount column using the ranges created, and on the "Subcategory" column using "plays" as the criteria.Created a pivot table from the KickStarter worksheet, and placed the pivot table in a new sheet.
+> Analysis Here:
+> - X
+> - Y
+> - Z
 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20COUNTIFS()%20function.PNG?raw=true)
 
 
-**3. The `SUM()` function is used on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column.**
+**3. The candidate results were.**
 
-> Use the `SUM()` function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row.
+- Charles Casper Stockham received "23.0%" of the "369,711" votes.
+- Diana DeGette received "73.8%" of the "369,711" votes.
+- Raymon Anthony Doane received "3.1%" of the "369,711" votes.
+
+> Analysis Here:
+> - X
+> - Y
+> - Z
 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20SUM()%20function.PNG?raw=true)
 
 
-**4. The percentages of successful, failed, and canceled projects are calculated based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns.**
+**4. The Winner of the election was:**
 
-> Calculated the percentage of successful, failed, and canceled projects for each row.
+- Winner: **Diana DeGette**
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 
+> Analysis Here:
+> - X
+> - Y
+> - Z
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/The%20percentages.PNG?raw=true)
 
 
-**5. A line chart is created and saved as **[Outcomes_vs_Goals.png]** with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title.**
-
-> Created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Outcomes_vs_Goals.PNG?raw=true)
-
-
-
-### Challenges and Difficulties Encountered
+### Challenges Overview and Difficulties Encountered
 
 Biggest challenge was filtering the pivot table to visualize the relationship between parent category and years, adding the correct dataset into the Columns, Rows and Values.
-
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-> As Conclusions, our Line charts we can see by looking at our data that the months of **May and June** both have a greater success rate.
-> A bar chart **wouldn't** be able to convey this information in the same manner.
-
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Theater_Outcomes_vs_Launch.PNG?raw=true)
-
-
-
-- What can you conclude about the Outcomes based on Goals?
-
-> As Conclusion, our Outcomes based on Goals measures using line chart of central tendency work in practice help us finding the mean and median for each dataset's (the failed and successful campaigns).
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/Outcomes_vs_Goals.PNG?raw=true)
-
-
-- What are some limitations of this dataset?
-
-> Some limitation can be that we'd like to know the deviations from the actual dataset, but because we don't know, these deviations have a subtle and slight bias to them. 
-
-
-- What are some other possible tables and/or graphs that we could create?
-
-> - Box Plots
-> - Pie Graph
-> - Column Graph
-> - Line Graph
-> - Area Graph
-> - Scatter Graph
-
-
-
 
 
