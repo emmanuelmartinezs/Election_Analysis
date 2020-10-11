@@ -61,7 +61,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **1. Total Votes in the election are printed to the terminal**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image**
@@ -71,7 +71,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **2. Each candidate’s total votes and percentage of votes are printed to the terminal.**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image**
@@ -81,7 +81,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image - The winner of the election**
@@ -112,7 +112,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **1. Each county and its total vote count are printed to the terminal.**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image**
@@ -122,7 +122,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **2. Each county and its percentage of the total votes are printed to the terminal.**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image**
@@ -132,7 +132,7 @@ Using repetition statements, conditional statements with logical operators, and 
 
 **3. The county with the largest number of voters is printed to the terminal.**
 
-> Analysis Here:
+> Image with `Python` Code below.
 
 
 **Code and Image**
@@ -152,7 +152,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 **1. Total Votes in the election are saved in the `election_results.txt` file.**
 
-> Analysis Here:
+> Image over `election_results.txt` print below.
 
 
 **Code and Image**
@@ -162,10 +162,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 **2. Each candidate’s total votes and percentage of votes are saved in the `election_results.txt` file.**
 
-> Analysis Here:
-> - X
-> - Y
-> - Z
+> Image over `election_results.txt` print below.
 
 
 **Code and Image**
@@ -174,14 +171,8 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 
 **3. The winner of the election, winning vote count, and winning percentage of votes are saved in the `election_results.txt` file.**
-- Charles Casper Stockham
-- Diana DeGette
-- Raymon Anthony Doane
 
-> Analysis Here:
-> - X
-> - Y
-> - Z
+> Image over `election_results.txt` print below.
 
 
 **Code and Image - The winner of the election on txt file**
@@ -210,7 +201,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 **1. Each county and its total vote count are saved in the `election_results.txt` file.**
 
-> Analysis Here:
+> Image over `election_results.txt` print below.
 
 
 **Code and Image**
@@ -220,10 +211,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 **2. Each county and its percentage of the total votes are saved in the `election_results.txt` file.**
 
-> Analysis Here:
-> - X
-> - Y
-> - Z
+> Image over `election_results.txt` print below.
 
 
 **Code and Image**
@@ -232,14 +220,8 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 
 **3. The county with the largest number of voters is saved in the `election_results.tx` file.**
-- Charles Casper Stockham
-- Diana DeGette
-- Raymon Anthony Doane
 
-> Analysis Here:
-> - X
-> - Y
-> - Z
+> Image over `election_results.txt` print below.
 
 
 **Code and Image**
