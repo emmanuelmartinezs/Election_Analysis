@@ -30,8 +30,6 @@ winning_percentage = 0
 lrg_turnout_county = ""
 lrg_turn_count = 0
 
-LESFT ALL HERE: Step 2, Deliv 1
-
 # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
     reader = csv.reader(election_data)
