@@ -56,7 +56,6 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
  
 ### Results with detail analysis:
-> Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
 **1. Total Votes in the election are printed to the terminal**
 
@@ -106,7 +105,6 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 3. The county with the largest number of voters is printed to the terminal.
 
 ### Results with detail analysis:
-> Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
 **1. Each county and its total vote count are printed to the terminal.**
 
