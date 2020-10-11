@@ -50,7 +50,6 @@ Pseudo means **"fake,"** so pseudocode is essentially fake code. Pseudocode is a
 
 ## Deliverable 1a: Candidate Results
 ### Deliverable Requirements:
-Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
 1. Total Votes in the election are printed to the terminal.
 2. Each candidate’s total votes and percentage of votes are printed to the terminal.
@@ -101,7 +100,6 @@ Using repetition statements, conditional statements with logical operators, and 
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
-Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
 
 1. Each county and its total vote count are printed to the terminal.
 2. Each county and its percentage of the total votes are printed to the terminal.
@@ -232,6 +230,24 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 ## Deliverable 3: Analysis of the Election Audit
 ### 1) Overview of Election Audit:
 > Explain the purpose of this election audit analysis:
+
+A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
+
+* Calculate the total number of votes cast.
+* Get a complete list of candidates who received votes.
+* Calculatae the total number of votes each candidate received.
+* Calculate the percentage of votes each candidate won.
+* Determine the winner of the election based on popular vote.
+
+After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called `pseudocode`. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
+
+In this project, our final Python script will need to be able to deliver the following information when the script is run:
+
+* Total number of votes cast
+* A complete list of candidates who received votes
+* Total number of votes each candidate received
+* Percentage of votes each candidate won
+* The winner of the election based on popular vote
 
 
 ### 2) Election-Audit Results:
